@@ -18,4 +18,4 @@ To submit your final project:
 5. Once completed, inform me that your project is ready for evaluation on whatsapp.
 6. Prepare for a project discussion with me.
 
-###### Feel free to start the repo⭐
+###### Feel free to star the repo⭐
