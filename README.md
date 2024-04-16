@@ -19,6 +19,6 @@ To submit your final project:
 6. Prepare for a project discussion with me.
 
 ## Deadline
-This project should be submitted before the 15th of May. Good Luck 💪
+This project should be submitted before the **15th of May**. Good Luck 💪
 
 ###### Feel free to star the repo⭐
